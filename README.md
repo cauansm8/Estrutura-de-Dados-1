@@ -1,6 +1,6 @@
 # Estrutura-de-Dados-1
 
-Maneiras de acessar e arquivar dados
+Maneiras de arquivar e acessar dados de forma eficiente
 
 Estruturas
   - lista (estática, dinâmica,  generalizada, matriz esparsa)

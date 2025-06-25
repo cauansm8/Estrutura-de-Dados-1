@@ -4,10 +4,10 @@ Maneiras de arquivar e acessar dados de forma eficiente
 
 Estruturas
   - lista (estática, dinâmica,  generalizada, matriz esparsa)
-  - pilha (estática, dinàmica, múltipla)
+  - pilha (estática, dinâmica, múltipla)
   - fila (estática circular, dinâmica, deque, de prioridade)
   - Hashing (com tratamento de colisão)
-  - árvores (binária, AVL, rubro-negra)
+  - árvores (binária, AVL)
 
 Principais exercícios
   - Torre de Hanoi (pilha)

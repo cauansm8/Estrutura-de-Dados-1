@@ -13,3 +13,5 @@ Principais exercícios
   - Torre de Hanoi (pilha)
   - Simulação de filas
   - Hashing em arquivo binário
+
+Professor: Ronaldo Celso Messias Correia

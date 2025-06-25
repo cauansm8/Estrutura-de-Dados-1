@@ -14,4 +14,7 @@ Principais exercícios
   - Simulação de filas
   - Hashing em arquivo binário
 
+Projeto final de cidades inteligentes com as estruturas:
+  - pilha, fila, hashing, árvore ABB e AVL
+
 Professor: Ronaldo Celso Messias Correia

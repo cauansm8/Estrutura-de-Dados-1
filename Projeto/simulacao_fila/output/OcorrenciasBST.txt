@@ -1,0 +1,142 @@
+------- Ocorrencias na BST -------
+
+Dados da ocorrência 5:
+	ID: 5
+	Nivel: ALTA
+	Ocorrência: Sequestro
+	Nome atendente: Gabriel
+
+
+Dados da ocorrência 6:
+	ID: 6
+	Nivel: ALTA
+	Ocorrência: Homicidio
+	Nome atendente: Bianca
+
+
+Dados da ocorrência 11:
+	ID: 11
+	Nivel: BAIXA
+	Ocorrência: Dor
+	Nome atendente: Katia
+
+
+Dados da ocorrência 14:
+	ID: 14
+	Nivel: ALTA
+	Ocorrência: Deslizamento
+	Nome atendente: Tiago
+
+
+Dados da ocorrência 17:
+	ID: 17
+	Nivel: MEDIA
+	Ocorrência: Afogamento
+	Nome atendente: André
+
+
+Dados da ocorrência 19:
+	ID: 19
+	Nivel: ALTA
+	Ocorrência: Assalto
+	Nome atendente: Luciana
+
+
+Dados da ocorrência 21:
+	ID: 21
+	Nivel: ALTA
+	Ocorrência: Deslizamento
+	Nome atendente: Gustavo
+
+
+Dados da ocorrência 23:
+	ID: 23
+	Nivel: MEDIA
+	Ocorrência: Ameaca
+	Nome atendente: Carla
+
+
+Dados da ocorrência 24:
+	ID: 24
+	Nivel: ALTA
+	Ocorrência: Sequestro
+	Nome atendente: Bianca
+
+
+Dados da ocorrência 35:
+	ID: 35
+	Nivel: BAIXA
+	Ocorrência: Dor
+	Nome atendente: Lucas
+
+
+Dados da ocorrência 36:
+	ID: 36
+	Nivel: MEDIA
+	Ocorrência: Ferimento
+	Nome atendente: Bruno
+
+
+Dados da ocorrência 41:
+	ID: 41
+	Nivel: BAIXA
+	Ocorrência: Dor
+	Nome atendente: Lucas
+
+
+Dados da ocorrência 50:
+	ID: 50
+	Nivel: BAIXA
+	Ocorrência: Busca
+	Nome atendente: José
+
+
+Dados da ocorrência 60:
+	ID: 60
+	Nivel: MEDIA
+	Ocorrência: Ameaca
+	Nome atendente: João
+
+
+Dados da ocorrência 63:
+	ID: 63
+	Nivel: MEDIA
+	Ocorrência: Resgate
+	Nome atendente: Daniel
+
+
+Dados da ocorrência 83:
+	ID: 83
+	Nivel: MEDIA
+	Ocorrência: Convulcao
+	Nome atendente: Tiago
+
+
+Dados da ocorrência 84:
+	ID: 84
+	Nivel: ALTA
+	Ocorrência: Assalto
+	Nome atendente: Laura
+
+
+Dados da ocorrência 95:
+	ID: 95
+	Nivel: BAIXA
+	Ocorrência: Infeccao
+	Nome atendente: Carla
+
+
+Dados da ocorrência 111:
+	ID: 111
+	Nivel: BAIXA
+	Ocorrência: Queda
+	Nome atendente: Fernando
+
+
+Dados da ocorrência 118:
+	ID: 118
+	Nivel: MEDIA
+	Ocorrência: Afogamento
+	Nome atendente: Lucas
+
+
